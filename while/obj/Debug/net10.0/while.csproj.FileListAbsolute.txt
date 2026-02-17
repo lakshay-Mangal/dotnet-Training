@@ -1,0 +1,14 @@
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\while\bin\Debug\net10.0\while.exe
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\while\bin\Debug\net10.0\while.deps.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\while\bin\Debug\net10.0\while.runtimeconfig.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\while\bin\Debug\net10.0\while.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\while\bin\Debug\net10.0\while.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\while\obj\Debug\net10.0\while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\while\obj\Debug\net10.0\while.AssemblyInfoInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\while\obj\Debug\net10.0\while.AssemblyInfo.cs
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\while\obj\Debug\net10.0\while.csproj.CoreCompileInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\while\obj\Debug\net10.0\while.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\while\obj\Debug\net10.0\refint\while.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\while\obj\Debug\net10.0\while.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\while\obj\Debug\net10.0\while.genruntimeconfig.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\while\obj\Debug\net10.0\ref\while.dll

@@ -1,0 +1,14 @@
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\boxingUnboxing\obj\Debug\net10.0\boxingUnboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\boxingUnboxing\obj\Debug\net10.0\boxingUnboxing.AssemblyInfoInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\boxingUnboxing\obj\Debug\net10.0\boxingUnboxing.AssemblyInfo.cs
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\boxingUnboxing\obj\Debug\net10.0\boxingUnboxing.csproj.CoreCompileInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\boxingUnboxing\bin\Debug\net10.0\boxingUnboxing.exe
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\boxingUnboxing\bin\Debug\net10.0\boxingUnboxing.deps.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\boxingUnboxing\bin\Debug\net10.0\boxingUnboxing.runtimeconfig.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\boxingUnboxing\bin\Debug\net10.0\boxingUnboxing.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\boxingUnboxing\bin\Debug\net10.0\boxingUnboxing.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\boxingUnboxing\obj\Debug\net10.0\boxingUnboxing.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\boxingUnboxing\obj\Debug\net10.0\refint\boxingUnboxing.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\boxingUnboxing\obj\Debug\net10.0\boxingUnboxing.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\boxingUnboxing\obj\Debug\net10.0\boxingUnboxing.genruntimeconfig.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\boxingUnboxing\obj\Debug\net10.0\ref\boxingUnboxing.dll

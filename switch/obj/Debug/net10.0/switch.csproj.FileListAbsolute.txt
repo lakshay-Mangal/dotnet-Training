@@ -1,0 +1,14 @@
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\switch\obj\Debug\net10.0\switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\switch\obj\Debug\net10.0\switch.AssemblyInfoInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\switch\obj\Debug\net10.0\switch.AssemblyInfo.cs
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\switch\obj\Debug\net10.0\switch.csproj.CoreCompileInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\switch\bin\Debug\net10.0\switch.exe
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\switch\bin\Debug\net10.0\switch.deps.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\switch\bin\Debug\net10.0\switch.runtimeconfig.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\switch\bin\Debug\net10.0\switch.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\switch\bin\Debug\net10.0\switch.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\switch\obj\Debug\net10.0\switch.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\switch\obj\Debug\net10.0\refint\switch.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\switch\obj\Debug\net10.0\switch.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\switch\obj\Debug\net10.0\switch.genruntimeconfig.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\switch\obj\Debug\net10.0\ref\switch.dll

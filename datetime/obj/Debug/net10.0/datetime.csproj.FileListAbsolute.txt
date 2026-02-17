@@ -1,0 +1,14 @@
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\datetime\bin\Debug\net10.0\datetime.exe
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\datetime\bin\Debug\net10.0\datetime.deps.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\datetime\bin\Debug\net10.0\datetime.runtimeconfig.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\datetime\bin\Debug\net10.0\datetime.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\datetime\bin\Debug\net10.0\datetime.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\datetime\obj\Debug\net10.0\datetime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\datetime\obj\Debug\net10.0\datetime.AssemblyInfoInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\datetime\obj\Debug\net10.0\datetime.AssemblyInfo.cs
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\datetime\obj\Debug\net10.0\datetime.csproj.CoreCompileInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\datetime\obj\Debug\net10.0\datetime.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\datetime\obj\Debug\net10.0\refint\datetime.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\datetime\obj\Debug\net10.0\datetime.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\datetime\obj\Debug\net10.0\datetime.genruntimeconfig.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\datetime\obj\Debug\net10.0\ref\datetime.dll

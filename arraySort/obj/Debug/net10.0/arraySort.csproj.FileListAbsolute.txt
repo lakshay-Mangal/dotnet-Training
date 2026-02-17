@@ -1,0 +1,14 @@
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\arraySort\bin\Debug\net10.0\arraySort.exe
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\arraySort\bin\Debug\net10.0\arraySort.deps.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\arraySort\bin\Debug\net10.0\arraySort.runtimeconfig.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\arraySort\bin\Debug\net10.0\arraySort.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\arraySort\bin\Debug\net10.0\arraySort.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\arraySort\obj\Debug\net10.0\arraySort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\arraySort\obj\Debug\net10.0\arraySort.AssemblyInfoInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\arraySort\obj\Debug\net10.0\arraySort.AssemblyInfo.cs
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\arraySort\obj\Debug\net10.0\arraySort.csproj.CoreCompileInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\arraySort\obj\Debug\net10.0\arraySort.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\arraySort\obj\Debug\net10.0\refint\arraySort.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\arraySort\obj\Debug\net10.0\arraySort.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\arraySort\obj\Debug\net10.0\arraySort.genruntimeconfig.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\arraySort\obj\Debug\net10.0\ref\arraySort.dll

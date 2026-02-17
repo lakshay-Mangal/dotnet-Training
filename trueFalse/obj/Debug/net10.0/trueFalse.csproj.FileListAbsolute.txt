@@ -1,0 +1,14 @@
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\trueFalse\obj\Debug\net10.0\trueFalse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\trueFalse\obj\Debug\net10.0\trueFalse.AssemblyInfoInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\trueFalse\obj\Debug\net10.0\trueFalse.AssemblyInfo.cs
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\trueFalse\obj\Debug\net10.0\trueFalse.csproj.CoreCompileInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\trueFalse\bin\Debug\net10.0\trueFalse.exe
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\trueFalse\bin\Debug\net10.0\trueFalse.deps.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\trueFalse\bin\Debug\net10.0\trueFalse.runtimeconfig.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\trueFalse\bin\Debug\net10.0\trueFalse.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\trueFalse\bin\Debug\net10.0\trueFalse.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\trueFalse\obj\Debug\net10.0\trueFalse.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\trueFalse\obj\Debug\net10.0\refint\trueFalse.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\trueFalse\obj\Debug\net10.0\trueFalse.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\trueFalse\obj\Debug\net10.0\trueFalse.genruntimeconfig.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\trueFalse\obj\Debug\net10.0\ref\trueFalse.dll

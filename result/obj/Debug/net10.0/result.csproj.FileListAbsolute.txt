@@ -1,0 +1,14 @@
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\result\bin\Debug\net10.0\result.exe
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\result\bin\Debug\net10.0\result.deps.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\result\bin\Debug\net10.0\result.runtimeconfig.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\result\bin\Debug\net10.0\result.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\result\bin\Debug\net10.0\result.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\result\obj\Debug\net10.0\result.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\result\obj\Debug\net10.0\result.AssemblyInfoInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\result\obj\Debug\net10.0\result.AssemblyInfo.cs
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\result\obj\Debug\net10.0\result.csproj.CoreCompileInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\result\obj\Debug\net10.0\result.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\result\obj\Debug\net10.0\refint\result.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\result\obj\Debug\net10.0\result.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\result\obj\Debug\net10.0\result.genruntimeconfig.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\result\obj\Debug\net10.0\ref\result.dll

@@ -1,0 +1,14 @@
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\ifelse\bin\Debug\net10.0\ifelse.exe
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\ifelse\bin\Debug\net10.0\ifelse.deps.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\ifelse\bin\Debug\net10.0\ifelse.runtimeconfig.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\ifelse\bin\Debug\net10.0\ifelse.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\ifelse\bin\Debug\net10.0\ifelse.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\ifelse\obj\Debug\net10.0\ifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\ifelse\obj\Debug\net10.0\ifelse.AssemblyInfoInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\ifelse\obj\Debug\net10.0\ifelse.AssemblyInfo.cs
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\ifelse\obj\Debug\net10.0\ifelse.csproj.CoreCompileInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\ifelse\obj\Debug\net10.0\ifelse.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\ifelse\obj\Debug\net10.0\refint\ifelse.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\ifelse\obj\Debug\net10.0\ifelse.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\ifelse\obj\Debug\net10.0\ifelse.genruntimeconfig.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\ifelse\obj\Debug\net10.0\ref\ifelse.dll

@@ -1,0 +1,14 @@
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\stringArraySort\bin\Debug\net10.0\stringArraySort.exe
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\stringArraySort\bin\Debug\net10.0\stringArraySort.deps.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\stringArraySort\bin\Debug\net10.0\stringArraySort.runtimeconfig.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\stringArraySort\bin\Debug\net10.0\stringArraySort.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\stringArraySort\bin\Debug\net10.0\stringArraySort.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\stringArraySort\obj\Debug\net10.0\stringArraySort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\stringArraySort\obj\Debug\net10.0\stringArraySort.AssemblyInfoInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\stringArraySort\obj\Debug\net10.0\stringArraySort.AssemblyInfo.cs
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\stringArraySort\obj\Debug\net10.0\stringArraySort.csproj.CoreCompileInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\stringArraySort\obj\Debug\net10.0\stringArraySort.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\stringArraySort\obj\Debug\net10.0\refint\stringArraySort.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\stringArraySort\obj\Debug\net10.0\stringArraySort.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\stringArraySort\obj\Debug\net10.0\stringArraySort.genruntimeconfig.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\stringArraySort\obj\Debug\net10.0\ref\stringArraySort.dll
