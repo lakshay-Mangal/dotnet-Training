@@ -1,0 +1,15 @@
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\newProject\bin\Debug\net10.0\newProject.exe
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\newProject\bin\Debug\net10.0\newProject.deps.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\newProject\bin\Debug\net10.0\newProject.runtimeconfig.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\newProject\bin\Debug\net10.0\newProject.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\newProject\bin\Debug\net10.0\newProject.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\newProject\obj\Debug\net10.0\newProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\newProject\obj\Debug\net10.0\newProject.AssemblyInfoInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\newProject\obj\Debug\net10.0\newProject.AssemblyInfo.cs
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\newProject\obj\Debug\net10.0\newProject.csproj.CoreCompileInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\newProject\obj\Debug\net10.0\newProject.sourcelink.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\newProject\obj\Debug\net10.0\newProject.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\newProject\obj\Debug\net10.0\refint\newProject.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\newProject\obj\Debug\net10.0\newProject.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\newProject\obj\Debug\net10.0\newProject.genruntimeconfig.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\newProject\obj\Debug\net10.0\ref\newProject.dll
