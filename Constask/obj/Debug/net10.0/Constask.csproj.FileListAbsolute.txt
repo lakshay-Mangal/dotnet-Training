@@ -1,0 +1,15 @@
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\Constask\obj\Debug\net10.0\Constask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\Constask\obj\Debug\net10.0\Constask.AssemblyInfoInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\Constask\obj\Debug\net10.0\Constask.AssemblyInfo.cs
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\Constask\obj\Debug\net10.0\Constask.csproj.CoreCompileInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\Constask\obj\Debug\net10.0\Constask.sourcelink.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\Constask\bin\Debug\net10.0\Constask.exe
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\Constask\bin\Debug\net10.0\Constask.deps.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\Constask\bin\Debug\net10.0\Constask.runtimeconfig.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\Constask\bin\Debug\net10.0\Constask.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\Constask\bin\Debug\net10.0\Constask.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\Constask\obj\Debug\net10.0\Constask.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\Constask\obj\Debug\net10.0\refint\Constask.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\Constask\obj\Debug\net10.0\Constask.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\Constask\obj\Debug\net10.0\Constask.genruntimeconfig.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\Constask\obj\Debug\net10.0\ref\Constask.dll

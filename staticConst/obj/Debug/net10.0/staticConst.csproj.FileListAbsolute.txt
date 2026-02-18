@@ -1,0 +1,15 @@
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\staticConst\obj\Debug\net10.0\staticConst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\staticConst\obj\Debug\net10.0\staticConst.AssemblyInfoInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\staticConst\obj\Debug\net10.0\staticConst.AssemblyInfo.cs
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\staticConst\obj\Debug\net10.0\staticConst.csproj.CoreCompileInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\staticConst\obj\Debug\net10.0\staticConst.sourcelink.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\staticConst\bin\Debug\net10.0\staticConst.exe
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\staticConst\bin\Debug\net10.0\staticConst.deps.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\staticConst\bin\Debug\net10.0\staticConst.runtimeconfig.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\staticConst\bin\Debug\net10.0\staticConst.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\staticConst\bin\Debug\net10.0\staticConst.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\staticConst\obj\Debug\net10.0\staticConst.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\staticConst\obj\Debug\net10.0\refint\staticConst.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\staticConst\obj\Debug\net10.0\staticConst.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\staticConst\obj\Debug\net10.0\staticConst.genruntimeconfig.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\staticConst\obj\Debug\net10.0\ref\staticConst.dll
