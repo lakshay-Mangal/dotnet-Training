@@ -1,0 +1,15 @@
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day5\02_productDemo\obj\Debug\net10.0\02_productDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day5\02_productDemo\obj\Debug\net10.0\02_productDemo.AssemblyInfoInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day5\02_productDemo\obj\Debug\net10.0\02_productDemo.AssemblyInfo.cs
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day5\02_productDemo\obj\Debug\net10.0\02_productDemo.csproj.CoreCompileInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day5\02_productDemo\obj\Debug\net10.0\02_productDemo.sourcelink.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day5\02_productDemo\bin\Debug\net10.0\02_productDemo.exe
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day5\02_productDemo\bin\Debug\net10.0\02_productDemo.deps.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day5\02_productDemo\bin\Debug\net10.0\02_productDemo.runtimeconfig.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day5\02_productDemo\bin\Debug\net10.0\02_productDemo.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day5\02_productDemo\bin\Debug\net10.0\02_productDemo.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day5\02_productDemo\obj\Debug\net10.0\02_productDemo.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day5\02_productDemo\obj\Debug\net10.0\refint\02_productDemo.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day5\02_productDemo\obj\Debug\net10.0\02_productDemo.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day5\02_productDemo\obj\Debug\net10.0\02_productDemo.genruntimeconfig.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day5\02_productDemo\obj\Debug\net10.0\ref\02_productDemo.dll

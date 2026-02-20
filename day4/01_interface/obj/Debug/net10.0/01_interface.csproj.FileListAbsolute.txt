@@ -1,0 +1,15 @@
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\01_interface\bin\Debug\net10.0\01_interface.exe
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\01_interface\bin\Debug\net10.0\01_interface.deps.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\01_interface\bin\Debug\net10.0\01_interface.runtimeconfig.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\01_interface\bin\Debug\net10.0\01_interface.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\01_interface\bin\Debug\net10.0\01_interface.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\01_interface\obj\Debug\net10.0\01_interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\01_interface\obj\Debug\net10.0\01_interface.AssemblyInfoInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\01_interface\obj\Debug\net10.0\01_interface.AssemblyInfo.cs
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\01_interface\obj\Debug\net10.0\01_interface.csproj.CoreCompileInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\01_interface\obj\Debug\net10.0\01_interface.sourcelink.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\01_interface\obj\Debug\net10.0\01_interface.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\01_interface\obj\Debug\net10.0\refint\01_interface.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\01_interface\obj\Debug\net10.0\01_interface.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\01_interface\obj\Debug\net10.0\01_interface.genruntimeconfig.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\01_interface\obj\Debug\net10.0\ref\01_interface.dll

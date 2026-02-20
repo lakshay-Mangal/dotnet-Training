@@ -1,0 +1,15 @@
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\06_arrayList\bin\Debug\net10.0\06_arrayList.exe
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\06_arrayList\bin\Debug\net10.0\06_arrayList.deps.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\06_arrayList\bin\Debug\net10.0\06_arrayList.runtimeconfig.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\06_arrayList\bin\Debug\net10.0\06_arrayList.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\06_arrayList\bin\Debug\net10.0\06_arrayList.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\06_arrayList\obj\Debug\net10.0\06_arrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\06_arrayList\obj\Debug\net10.0\06_arrayList.AssemblyInfoInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\06_arrayList\obj\Debug\net10.0\06_arrayList.AssemblyInfo.cs
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\06_arrayList\obj\Debug\net10.0\06_arrayList.csproj.CoreCompileInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\06_arrayList\obj\Debug\net10.0\06_arrayList.sourcelink.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\06_arrayList\obj\Debug\net10.0\06_arrayList.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\06_arrayList\obj\Debug\net10.0\refint\06_arrayList.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\06_arrayList\obj\Debug\net10.0\06_arrayList.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\06_arrayList\obj\Debug\net10.0\06_arrayList.genruntimeconfig.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\06_arrayList\obj\Debug\net10.0\ref\06_arrayList.dll

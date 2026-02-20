@@ -1,0 +1,15 @@
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\08_exceptionHandling\obj\Debug\net10.0\08_exceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\08_exceptionHandling\obj\Debug\net10.0\08_exceptionHandling.AssemblyInfoInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\08_exceptionHandling\obj\Debug\net10.0\08_exceptionHandling.AssemblyInfo.cs
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\08_exceptionHandling\obj\Debug\net10.0\08_exceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\08_exceptionHandling\obj\Debug\net10.0\08_exceptionHandling.sourcelink.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\08_exceptionHandling\bin\Debug\net10.0\08_exceptionHandling.exe
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\08_exceptionHandling\bin\Debug\net10.0\08_exceptionHandling.deps.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\08_exceptionHandling\bin\Debug\net10.0\08_exceptionHandling.runtimeconfig.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\08_exceptionHandling\bin\Debug\net10.0\08_exceptionHandling.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\08_exceptionHandling\bin\Debug\net10.0\08_exceptionHandling.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\08_exceptionHandling\obj\Debug\net10.0\08_exceptionHandling.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\08_exceptionHandling\obj\Debug\net10.0\refint\08_exceptionHandling.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\08_exceptionHandling\obj\Debug\net10.0\08_exceptionHandling.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\08_exceptionHandling\obj\Debug\net10.0\08_exceptionHandling.genruntimeconfig.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\08_exceptionHandling\obj\Debug\net10.0\ref\08_exceptionHandling.dll

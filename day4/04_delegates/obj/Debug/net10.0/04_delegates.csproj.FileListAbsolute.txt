@@ -1,0 +1,15 @@
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\04_delegates\bin\Debug\net10.0\04_delegates.exe
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\04_delegates\bin\Debug\net10.0\04_delegates.deps.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\04_delegates\bin\Debug\net10.0\04_delegates.runtimeconfig.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\04_delegates\bin\Debug\net10.0\04_delegates.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\04_delegates\bin\Debug\net10.0\04_delegates.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\04_delegates\obj\Debug\net10.0\04_delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\04_delegates\obj\Debug\net10.0\04_delegates.AssemblyInfoInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\04_delegates\obj\Debug\net10.0\04_delegates.AssemblyInfo.cs
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\04_delegates\obj\Debug\net10.0\04_delegates.csproj.CoreCompileInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\04_delegates\obj\Debug\net10.0\04_delegates.sourcelink.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\04_delegates\obj\Debug\net10.0\04_delegates.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\04_delegates\obj\Debug\net10.0\refint\04_delegates.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\04_delegates\obj\Debug\net10.0\04_delegates.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\04_delegates\obj\Debug\net10.0\04_delegates.genruntimeconfig.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\04_delegates\obj\Debug\net10.0\ref\04_delegates.dll

@@ -1,0 +1,15 @@
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\05_delegateTask\obj\Debug\net10.0\05_delegateTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\05_delegateTask\obj\Debug\net10.0\05_delegateTask.AssemblyInfoInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\05_delegateTask\obj\Debug\net10.0\05_delegateTask.AssemblyInfo.cs
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\05_delegateTask\obj\Debug\net10.0\05_delegateTask.csproj.CoreCompileInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\05_delegateTask\obj\Debug\net10.0\05_delegateTask.sourcelink.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\05_delegateTask\bin\Debug\net10.0\05_delegateTask.exe
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\05_delegateTask\bin\Debug\net10.0\05_delegateTask.deps.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\05_delegateTask\bin\Debug\net10.0\05_delegateTask.runtimeconfig.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\05_delegateTask\bin\Debug\net10.0\05_delegateTask.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\05_delegateTask\bin\Debug\net10.0\05_delegateTask.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\05_delegateTask\obj\Debug\net10.0\05_delegateTask.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\05_delegateTask\obj\Debug\net10.0\refint\05_delegateTask.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\05_delegateTask\obj\Debug\net10.0\05_delegateTask.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\05_delegateTask\obj\Debug\net10.0\05_delegateTask.genruntimeconfig.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\05_delegateTask\obj\Debug\net10.0\ref\05_delegateTask.dll

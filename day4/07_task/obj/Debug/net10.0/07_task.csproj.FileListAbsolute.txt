@@ -1,0 +1,15 @@
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\07_task\bin\Debug\net10.0\07_task.exe
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\07_task\bin\Debug\net10.0\07_task.deps.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\07_task\bin\Debug\net10.0\07_task.runtimeconfig.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\07_task\bin\Debug\net10.0\07_task.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\07_task\bin\Debug\net10.0\07_task.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\07_task\obj\Debug\net10.0\07_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\07_task\obj\Debug\net10.0\07_task.AssemblyInfoInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\07_task\obj\Debug\net10.0\07_task.AssemblyInfo.cs
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\07_task\obj\Debug\net10.0\07_task.csproj.CoreCompileInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\07_task\obj\Debug\net10.0\07_task.sourcelink.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\07_task\obj\Debug\net10.0\07_task.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\07_task\obj\Debug\net10.0\refint\07_task.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\07_task\obj\Debug\net10.0\07_task.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\07_task\obj\Debug\net10.0\07_task.genruntimeconfig.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day4\07_task\obj\Debug\net10.0\ref\07_task.dll

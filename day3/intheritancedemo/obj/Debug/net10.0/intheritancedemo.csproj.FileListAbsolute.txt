@@ -1,0 +1,15 @@
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day3\intheritancedemo\obj\Debug\net10.0\intheritancedemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day3\intheritancedemo\obj\Debug\net10.0\intheritancedemo.AssemblyInfoInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day3\intheritancedemo\obj\Debug\net10.0\intheritancedemo.AssemblyInfo.cs
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day3\intheritancedemo\obj\Debug\net10.0\intheritancedemo.csproj.CoreCompileInputs.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day3\intheritancedemo\obj\Debug\net10.0\intheritancedemo.sourcelink.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day3\intheritancedemo\bin\Debug\net10.0\intheritancedemo.exe
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day3\intheritancedemo\bin\Debug\net10.0\intheritancedemo.deps.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day3\intheritancedemo\bin\Debug\net10.0\intheritancedemo.runtimeconfig.json
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day3\intheritancedemo\bin\Debug\net10.0\intheritancedemo.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day3\intheritancedemo\bin\Debug\net10.0\intheritancedemo.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day3\intheritancedemo\obj\Debug\net10.0\intheritancedemo.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day3\intheritancedemo\obj\Debug\net10.0\refint\intheritancedemo.dll
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day3\intheritancedemo\obj\Debug\net10.0\intheritancedemo.pdb
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day3\intheritancedemo\obj\Debug\net10.0\intheritancedemo.genruntimeconfig.cache
+C:\Users\Lakshay mangal\OneDrive\Desktop\dotnet\day3\intheritancedemo\obj\Debug\net10.0\ref\intheritancedemo.dll
